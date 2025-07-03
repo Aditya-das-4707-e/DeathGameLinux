@@ -27,7 +27,7 @@ If you run this with `sudo` on a real machine, it will:
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/death-game.git
+git clone https://github.com/Aditya-das-4707-e/DeathGameLinux.git
 cd death-game
 chmod +x death_game.sh
 ./death_game.sh
